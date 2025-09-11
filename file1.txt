@@ -6,3 +6,5 @@ testingfile
 untesting file
 
 new branch line
+
+gui new line
